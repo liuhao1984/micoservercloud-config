@@ -1,0 +1,16 @@
+spring:
+ profiles:
+  activte:
+   - dev
+
+---
+spring:
+  profiles: dev 
+  application:
+     name:  microservicecloud-config-keda-dev
+
+---
+spring:
+  profiles: test
+  application:
+     name:  microservicecloud-config-keda-test
