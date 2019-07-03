@@ -5,7 +5,7 @@ spring:
 
 ---
 server:
-  port: 8001
+  port: 8201
 spring:
   profiles: dev 
   application:
@@ -17,7 +17,7 @@ spring:
 
 ---
 server:
-  port: 8002
+  port: 8202
 spring:
   profiles: test 
   application:
