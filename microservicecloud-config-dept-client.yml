@@ -38,11 +38,6 @@ eureka:
     instance-id: microservicecloud-dept8001
     prefer-ip-address: true     #访问路径可以显示IP地址   
 
-info:
-  app.name: keda-microservicecloud
-  company.name: www.keda.com
-  build.artifactId: @project.artifactId@
-  build.version: @project.version@
 
   ---
 server:
@@ -79,8 +74,4 @@ eureka:
     instance-id: microservicecloud-dept8001
     prefer-ip-address: true     #访问路径可以显示IP地址   
 
-info:
-  app.name: keda-microservicecloud
-  company.name: www.keda.com
-  build.artifactId: @project.artifactId@
-  build.version: @project.version@
+
