@@ -5,7 +5,7 @@ spring:
 
 ---
 spring:
-  profiles: dev 
+  profiles: {cipher}c9d94e5104f7d0d8fc07beca78d6cd362016f413171e6ec251a053e3adc0328f 
   application:
      name:  microservicecloud-config-keda-dev
 
