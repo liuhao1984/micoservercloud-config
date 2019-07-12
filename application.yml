@@ -7,7 +7,7 @@ spring:
 spring:
   profiles: dev 
   application:
-     name:  {cipher}955cbd7c3693bfb4a9bca623b4d3136e5cf2e025d853281a29d78f6c407107be23db979dbacc9727a8efa03e3cfb023931501243b97bd94703e451d7cd96838b
+     name:  "{cipher}955cbd7c3693bfb4a9bca623b4d3136e5cf2e025d853281a29d78f6c407107be23db979dbacc9727a8efa03e3cfb023931501243b97bd94703e451d7cd96838b"
 
 ---
 spring:
